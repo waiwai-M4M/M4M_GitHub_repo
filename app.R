@@ -1,15 +1,15 @@
 # FHM Engage - Interactive map
 # This is a Shiny web application
 
-# install.packages("shiny")
-# install.packages("shinydashboard")
-# install.packages("shinythemes")
-# install.packages("leaflet")
-# install.packages("leaflet.extras")
-# install.packages("dplyr")
-# install.packages("sf")
-# install.packages("rsconnect")
-# install.packages("shinyWidgets")
+install.packages("shiny")
+install.packages("shinydashboard")
+install.packages("shinythemes")
+install.packages("leaflet")
+install.packages("leaflet.extras")
+install.packages("dplyr")
+install.packages("sf")
+install.packages("rsconnect")
+install.packages("shinyWidgets")
 
 
 # import libraries
